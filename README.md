@@ -20,15 +20,3 @@
 2. **Clone the Repository**: Use Git to clone the repository to your local machine.
 3. **Open in Godot**: Launch Godot and open the project by selecting the directory where you cloned the repository.
 4. **Run the Game**: Press the Play button in Godot to start your adventure with Project Pounce!
-
-## Contribution
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements or features.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgements
-
-Special thanks to the creators of Celeste for inspiring this project and to the Godot community for their support and resources.
